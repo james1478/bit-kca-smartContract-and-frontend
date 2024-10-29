@@ -110,7 +110,9 @@ function App() {
     <div className='App'>
       <div className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
+        <br></br>
         <button onClick={getNumber}>Get Number</button>
+        <br></br>
         <br />
         <button onClick={increaseNumber}>Increase Number</button>
         <br />
